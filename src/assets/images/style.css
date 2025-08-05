@@ -1,0 +1,6 @@
+:root {
+  --color-battleship-destroyer: rgb(166, 58, 62);
+  --color-battleship-submarine: rgb(190, 118, 144);
+  --color-battleship-cruiser: rgb(100, 156, 228);
+  --color-battleship-carrier: rgb(76, 86, 162);
+}
